@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "sqltools.connections": [
+        {
+            "database": "mysql",
+            "dialect": "MySQL",
+            "name": "wife",
+            "password": "irene11wang",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
+    //"editor.codeActionsOnSave": ,
+    "allowed_elements":"html"
+}
